@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" role="img" aria-labelledby="title">
+  <title id="title">Construction site progress</title>
+  <rect width="1200" height="900" fill="#111"/>
+  <rect y="618" width="1200" height="282" fill="#eee9dc"/>
+  <path d="M154 618V260h210v358zm268 0V178h262v440zm320 0V322h306v296z" fill="#f8f6ef"/>
+  <path d="M154 260h210M422 178h262M742 322h306" stroke="#b89a5e" stroke-width="14"/>
+  <path d="M220 330h72v288h-72zm270-62h126v350H490zm330 126h148v224H820z" fill="#191919"/>
+  <path d="M110 704h980" stroke="#111" stroke-width="18"/>
+</svg>

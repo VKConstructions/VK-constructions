@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" role="img" aria-labelledby="title">
+  <title id="title">Construction material board</title>
+  <rect width="1200" height="900" fill="#f8f6ef"/>
+  <rect x="94" y="112" width="326" height="282" fill="#111"/>
+  <rect x="468" y="112" width="266" height="282" fill="#d8d1c2"/>
+  <rect x="782" y="112" width="324" height="282" fill="#b89a5e"/>
+  <rect x="94" y="444" width="456" height="300" fill="#eee9dc" stroke="#111" stroke-width="16"/>
+  <rect x="612" y="444" width="494" height="300" fill="#171717"/>
+  <path d="M150 520h340M668 520h382M668 592h272" stroke="#b89a5e" stroke-width="14"/>
+</svg>

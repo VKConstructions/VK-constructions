@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" role="img" aria-labelledby="title">
+  <title id="title">Luxury exterior elevation</title>
+  <rect width="1200" height="900" fill="#0c0c0c"/>
+  <rect x="110" y="668" width="980" height="80" fill="#f8f6ef"/>
+  <path d="M214 668V260h360v408zm360 0V334h352v334z" fill="#f8f6ef"/>
+  <path d="M286 340h216v328H286zm360 78h208v250H646z" fill="#151515"/>
+  <path d="M176 260h780M574 334h396" stroke="#b89a5e" stroke-width="16"/>
+  <circle cx="1032" cy="136" r="54" fill="#b89a5e"/>
+</svg>

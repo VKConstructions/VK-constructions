@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 900" role="img" aria-labelledby="title desc">
+  <title id="title">OMR Boutique Workspace</title>
+  <desc id="desc">Premium commercial workspace placeholder image.</desc>
+  <rect width="1400" height="900" fill="#101010"/>
+  <path d="M0 0h1400v350H0z" fill="#eeebe2"/>
+  <path d="M180 720V252h1040v468z" fill="#f8f6ef"/>
+  <path d="M252 326h250v394H252zm324 0h248v394H576zm324 0h248v394H900z" fill="#171717"/>
+  <path d="M180 252h1040" stroke="#b89a5e" stroke-width="18"/>
+  <path d="M296 410h162M620 410h160M944 410h160" stroke="#f8f6ef" stroke-width="9" opacity=".62"/>
+  <circle cx="700" cy="206" r="54" fill="#b89a5e"/>
+  <text x="72" y="118" fill="#111" font-family="Arial, sans-serif" font-size="34" font-weight="700" letter-spacing="8">BOUTIQUE WORKSPACE</text>
+</svg>

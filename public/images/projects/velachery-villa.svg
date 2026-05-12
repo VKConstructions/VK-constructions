@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 900" role="img" aria-labelledby="title desc">
+  <title id="title">Velachery Urban Villa</title>
+  <desc id="desc">Contemporary villa placeholder image.</desc>
+  <defs><linearGradient id="g" x1="0" x2="1"><stop stop-color="#f7f4ec"/><stop offset=".46" stop-color="#d9d2c4"/><stop offset="1" stop-color="#111"/></linearGradient></defs>
+  <rect width="1400" height="900" fill="url(#g)"/>
+  <rect x="116" y="614" width="1168" height="118" fill="#111"/>
+  <path d="M240 614V286h328v328zm328 0V218h370v396zm370 0V350h222v264z" fill="#fdfbf6"/>
+  <path d="M280 350h236v264H280zm350-74h248v338H630zm350 130h132v208H980z" fill="#151515"/>
+  <path d="M208 286h982M568 218h420M938 350h244" stroke="#b89a5e" stroke-width="16"/>
+  <path d="M316 430h164M676 364h156M1014 476h72" stroke="#fff" stroke-width="8" opacity=".75"/>
+  <text x="92" y="112" fill="#111" font-family="Arial, sans-serif" font-size="34" font-weight="700" letter-spacing="7">URBAN VILLA</text>
+</svg>
