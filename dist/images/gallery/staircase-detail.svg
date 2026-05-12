@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" role="img" aria-labelledby="title">
+  <title id="title">Modern staircase detail</title>
+  <rect width="1200" height="900" fill="#111"/>
+  <path d="M210 708h710v-96H802v-96H684v-96H566v-96H448v-96H330" fill="none" stroke="#f8f6ef" stroke-width="64" stroke-linejoin="round"/>
+  <path d="M260 708h710v-96H852v-96H734v-96H616v-96H498v-96H380" fill="none" stroke="#b89a5e" stroke-width="10" stroke-linejoin="round"/>
+  <path d="M290 166h716" stroke="#f8f6ef" stroke-width="10" opacity=".3"/>
+</svg>

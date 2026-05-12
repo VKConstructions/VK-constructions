@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" role="img" aria-labelledby="title">
+  <title id="title">Premium interior living room</title>
+  <rect width="1200" height="900" fill="#f8f6ef"/>
+  <rect y="0" width="1200" height="470" fill="#111"/>
+  <rect x="120" y="146" width="390" height="294" fill="#f8f6ef"/>
+  <rect x="690" y="124" width="340" height="460" fill="#d9d2c4"/>
+  <rect x="168" y="636" width="650" height="90" fill="#171717"/>
+  <rect x="224" y="560" width="220" height="106" fill="#b89a5e"/>
+  <path d="M120 146h390M690 124h340M168 636h650" stroke="#b89a5e" stroke-width="10"/>
+</svg>

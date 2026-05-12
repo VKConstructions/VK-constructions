@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 900" role="img" aria-labelledby="title desc">
+  <title id="title">ECR Weekend Home</title>
+  <desc id="desc">Upcoming weekend home placeholder image.</desc>
+  <defs><linearGradient id="g" x1="0" x2="0" y1="0" y2="1"><stop stop-color="#151515"/><stop offset=".62" stop-color="#3c382e"/><stop offset="1" stop-color="#f2eee3"/></linearGradient></defs>
+  <rect width="1400" height="900" fill="url(#g)"/>
+  <path d="M150 654h1100v82H150z" fill="#111"/>
+  <path d="M260 654V356l270-142 276 142v298z" fill="#f8f6ef"/>
+  <path d="M806 654V428h318v226z" fill="#d9d2c4"/>
+  <path d="M326 654V426h398v228zm538 0V490h202v164z" fill="#161616"/>
+  <path d="M236 356h914" stroke="#b89a5e" stroke-width="18"/>
+  <path d="M0 760c204-62 392-66 564-14 180 54 366 44 520-20 112-47 213-60 316-34v208H0z" fill="#eee9dc"/>
+  <text x="72" y="112" fill="#fff" font-family="Arial, sans-serif" font-size="34" font-weight="700" letter-spacing="8">WEEKEND HOME</text>
+</svg>
